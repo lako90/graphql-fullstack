@@ -1,0 +1,9 @@
+{
+  "name": "graphql-fullstack",
+  "version": "1.0.0",
+  "description": "Sample fullstack web application developed in node/express and react using graphQL language.",
+  "main": "index.js",
+  "repository": "https://github.com/lako90/graphql-fullstack.git",
+  "author": "Luca Perna <lucaprn@gmail.com>",
+  "license": "MIT"
+}
